@@ -75,14 +75,6 @@ export default function Home() {
                         </div>
                     </a>
                 </div>
-
-                <div className="text-center mt-16">
-                    <div className="inline-flex items-center px-6 py-3 rounded-full bg-white/10 backdrop-blur-sm border border-white/20">
-                        <span className="text-white/80 text-sm">
-                            Selecione um projeto para começar
-                        </span>
-                    </div>
-                </div>
             </div>
         </div>
     );
