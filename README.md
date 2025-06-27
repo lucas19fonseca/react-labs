@@ -1,4 +1,4 @@
-# 🚀 React Labs - Projeto Integrado
+# 🚀 React Labs 
 
 Este repositório reúne todas as atividades desenvolvidas durante o curso de **React**, organizadas em um único site. O projeto tem como objetivo aplicar na prática os conceitos estudados ao longo das aulas, utilizando **React**, **React Router DOM** e **Tailwind CSS** para o layout e estilização.
 
