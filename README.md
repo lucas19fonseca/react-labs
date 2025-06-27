@@ -13,8 +13,8 @@ Durante o curso, foram propostas diversas atividades para fixação dos conteúd
 - 📋 **To-Do List**
 - 🏢 **Elevador virtual**
 - 💡 **Cuidado simples**
-- 📦 Outras páginas e componentes adicionais
-
+---
+### 💻Confira o site aqui!:https://react-labss.vercel.app/
 ---
 
 ## 🛠️ Tecnologias Utilizadas
