@@ -6,7 +6,7 @@ Este repositório reúne todas as atividades desenvolvidas durante o curso de **
 
 ## 📌 Sobre o Projeto
 
-Durante o curso, foram propostas diversas atividades para fixação dos conteúdos de **componentização**, **props**, **state**, **eventos**, **hooks** e **rotas**. Este site reúne todas elas em uma única aplicação React, com navegação organizada através de um menu de opções.
+Durante o curso, foram propostas diversas atividades para fixação dos conteúdos de **componentização**, **props**, **state**, **eventos**, **hooks** e **rotas**. Este site reúne todas elas em uma única aplicação React, com navegação organizada através de um menu de opções
 
 ### 📚 Atividades inclusas:
 - 🔴 **Semáforo interativo**
