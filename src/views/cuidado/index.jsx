@@ -3,7 +3,7 @@ import Miorrelax from "../../assets/miorrelax.jpeg";
 import Ozempic from "../../assets/ozempic.JPEG";
 import Tylenol from "../../assets/tylenol.jpeg";
 import Ciflogex from "../../assets/ciflogex.png";
-
+import { Link } from "react-router-dom";
 
 export default function Cuidado() {
   const produtos = [
@@ -177,25 +177,25 @@ export default function Cuidado() {
           </a>
         </div>
       </header>
-      <a 
-            href="/" 
-            className="fixed top-25 left-4 z-50 group flex items-center gap-2 bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white px-4 py-2 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
+      <Link 
+        to="/" 
+        className="fixed top-25 left-4 z-50 group flex items-center gap-2 bg-gradient-to-r from-cyan-600 to-blue-600 hover:from-cyan-500 hover:to-blue-500 text-white px-4 py-2 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105"
+      >
+        <svg 
+          className="w-7 h-9 group-hover:-translate-x-1 transition-transform duration-300" 
+          fill="none" 
+          stroke="currentColor" 
+          viewBox="0 0 24 24"
         >
-            <svg 
-                className="w-7 h-9 group-hover:-translate-x-1 transition-transform duration-300" 
-                fill="none" 
-                stroke="currentColor" 
-                viewBox="0 0 24 24"
-            >
-                <path 
-                    strokeLinecap="round" 
-                    strokeLinejoin="round" 
-                    strokeWidth={2} 
-                    d="M10 19l-7-7m0 0l7-7m-7 7h18" 
-                />
-            </svg>
-            <span className="font-medium text-sm">Home</span>
-        </a>
+          <path 
+            strokeLinecap="round" 
+            strokeLinejoin="round" 
+            strokeWidth={2} 
+            d="M10 19l-7-7m0 0l7-7m-7 7h18" 
+          />
+        </svg>
+        <span className="font-medium text-sm">Home</span>
+      </Link>
 
       <main>
         <div className="produtos-container">
