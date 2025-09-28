@@ -1,6 +1,6 @@
 import Dorilenx from "../../assets/dorilenx.jpeg";
 import Miorrelax from "../../assets/miorrelax.jpeg";
-import Ozempic from "../../assets/ozempic.JPEG";
+import Ozempic from "../../assets/ozempic.jpeg";
 import Tylenol from "../../assets/tylenol.jpeg";
 import Ciflogex from "../../assets/ciflogex.png";
 import { Link } from "react-router-dom";
