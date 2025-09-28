@@ -125,7 +125,7 @@ export default function Cuidado() {
           background-color: #218838;
         }
         footer {
-          background-color: #28a745;
+          background-color: #28a744;
           color: #fff;
           text-align: center;
           padding: 14px 0;
